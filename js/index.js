@@ -141,9 +141,9 @@ $('#customers-testimonials').owlCarousel({
 	center: true,
 	items: 3,
 	margin: 0,
-	dots: false,
-		autoplay: true,
-	 autoplayTimeout: 8500,
+	dots: true,
+	autoplay: true,
+	autoplayTimeout: 8500,
 	smartSpeed: 450,
 	responsive: {
 		0: {
